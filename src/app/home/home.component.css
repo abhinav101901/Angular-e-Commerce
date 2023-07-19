@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+#landing-img-text {
+    overflow: hidden !important;
+    margin-top: 40px !important;
+}
+
+#get-started-btn {
+    font-weight: 700;
+    border-radius: 25px;
+    padding: 8px 30px 8px 30px;
+    cursor: pointer;
+}
+
+#get-started-btn:active {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+#get-started-btn:focus {
+    outline: 0;
+}
